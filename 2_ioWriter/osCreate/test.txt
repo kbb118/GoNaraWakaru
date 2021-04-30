@@ -1,0 +1,2 @@
+os.File example
+日本語 can be written!
